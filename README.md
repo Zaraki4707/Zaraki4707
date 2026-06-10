@@ -61,7 +61,7 @@ Check out my GitHub for the latest projects!
 ---
 
 
-![Orbit Animation](assets/orbit-animation.svg)  
+![Orbit Animation](./orbit-animation.svg)  
 
 ---
 
