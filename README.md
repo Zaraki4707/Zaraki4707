@@ -26,6 +26,7 @@
 
 **Quantum Computing:**  
 ![Qiskit](https://img.shields.io/badge/Qiskit-000000?style=for-the-badge&logo=qiskit&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-000000?style=for-the-badge&logo=pennylane&logoColor=white)
 
 **Cybersecurity & Tools:**  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -50,13 +51,13 @@
 
 ## 📂 Projects
 Check out my GitHub for the latest projects!  
-[GitHub Repositories](https://github.com/Zakaria4707)  
+[GitHub Repositories](https://github.com/Zaraki4707)  
 
 ---
 
 ## 📫 Contact Me
 ![Email](https://img.shields.io/badge/Email-zakaria--abdenour.mekki@ensia.edu.dz-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-@zaraki_mk-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-@zx7kii-0088CC?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
 
@@ -66,4 +67,4 @@ Check out my GitHub for the latest projects!
 ---
 
 ## 📊 GitHub Stats
-![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zakaria4707&show_icons=true&theme=radical)
+![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaraki4707&show_icons=true&theme=radical)
